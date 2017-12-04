@@ -1,0 +1,201 @@
+Pet Boarding Sitting & Kennels	pet
+Pet Sitter	pet
+Pet Store	pet
+Pet Groomer	pet
+Pet Trainer	pet
+Pet Supply Store	pet
+Pet Adoption Service	pet
+Dog Walker	pet
+Dog Breeder	pet
+Dog Trainer	pet
+Dog Sitter	pet
+Dog Day Care Center	pet
+Polynesian Restaurant	Australian Food
+Yemenite Restaurant	Mideast Food
+Chicken Wings Restaurant	Fast Food
+Health Food Restaurant	Healthy Food
+Malaysian Restaurant	Southeast Asian Food
+Egyptian Restaurant	Mideast Food
+Cuban Restaurant	Latin American Food
+Central American Restaurant	Latin American Food
+Asian Restaurant	Asian Food
+South Asian Restaurant	South Asian Food
+Alsace Restaurant	French Food
+Australian Restaurant	Australian Food
+Pacific Northwest Restaurant...	American Food
+Czech Restaurant	East European Food
+Southwestern Restaurant (US)	American Food
+Fast Food Restaurant	Fast Food
+Organic Restaurant	Healthy Food
+Restaurant or Cafe	Cafe
+Yakitori Restaurant	East Asian Food
+Mandarin Restaurant	East Asian Food
+Cheesesteak Restaurant	Fast Food
+Tapas Restaurant	Spanish Food
+German Restaurant	German Food
+Oyster Bar Restaurant	SeaFood
+Jamaican Restaurant	Latin American Food
+Belgian Restaurant	West European Food
+Tex-Mex Restaurant	Mexican Food
+Spanish Restaurant	Spanish Food
+South African Restaurant	African Food
+Taiwanese Restaurant	East Asian Food
+Danish Restaurant	West European Food
+Gluten-Free Restaurant	Healthy Food
+Ethiopian Restaurant	African Food
+Restaurant Supply Store	Restaurant Supply Store
+Swiss Restaurant	West European Food
+Restaurant	Restaurant
+Small Plates Restaurant	Small Plates
+Hunan Restaurant	East Asian Food
+Pakistani Restaurant	South Asian Food
+Eritrean Restaurant	African Food
+Native American Restaurant	American Food
+New Zealand Restaurant	Australian Food
+Neapolitan Restaurant	Italian Food
+Breakfast Restaurant	Breakfast Restaurant
+Modern British Restaurant	British Food
+New American Restaurant	American Food
+Basque Restaurant	Spanish Food
+Argentinian Restaurant	Latin American Food
+Macrobiotic Restaurant	Healthy Food
+Shanghainese Restaurant	East Asian Food
+Fine Dining Restaurant	High-level Food
+Hamburger Restaurant	Fast Food
+Dessert Restaurant	Dessert
+French Restaurant	French Food
+Serbian Restaurant	Greek Food
+Vegan Restaurant	Healthy Food
+Singaporean Restaurant	Southeast Asian Food
+Colombian Restaurant	Latin American Food
+Burrito Restaurant	Mexican Food
+Vegetarian Restaurant	Healthy Food
+Portuguese Restaurant	Spanish Food
+Cajun Restaurant	American Food
+Northern Italian Restaurant	Italian Food
+Austrian Restaurant	Australian Food
+Southeast Asian Restaurant	Southeast Asian Food
+Irish Restaurant	British Food
+British Restaurant	British Food
+Korean Barbecue Restaurant	East Asian Food
+Eclectic Restaurant	Eclectic Food
+Polish Restaurant	East European Food
+Pan-Asian Restaurant	Asian Food
+Tunisian Restaurant	Mideast Food
+Swedish Restaurant	North European Food
+Sushi Restaurant	East Asian Food
+Filipino Restaurant	Southeast Asian Food
+Korean Restaurant	East Asian Food
+Nepalese Restaurant	South Asian Food
+Nuevo Latino Restaurant	Latin American Food
+English Restaurant	British Food
+Cantonese Restaurant	East Asian Food
+Armenian Restaurant	Mideast Food
+Mexican Restaurant	Mexican Food
+Ramen Restaurant	East Asian Food
+Restaurant Thai	Southeast Asian Food
+Jewish Restaurant	Mideast Food
+Salvadoran Restaurant	Latin American Food
+Catalonian Restaurant	Spanish Food
+Persian Restaurant	Mideast Food
+Hawaiian Restaurant	Pacific Food
+Latin American Restaurant	Latin American Food
+Californian Restaurant	American Food
+New England Restaurant	British Food
+Lebanese Restaurant	Mideast Food
+Floridian Restaurant	American Food
+North African Restaurant	Mideast Food
+Moroccan Restaurant	Mideast Food
+Fish & Chips Restaurant	British Food
+Pancake Restaurant	Dessert
+Indonesian Restaurant	Southeast Asian Food
+Chophouse Restaurant	SeaFood
+Creole Restaurant	American Food
+Roman Restaurant	Italian Food
+Fondue Restaurant	West European Food
+Venezuelan Restaurant	Latin American Food
+Dumpling Restaurant	East Asian Food
+Pan-Latin Restaurant	Latin American Food
+Burmese Restaurant	American Food
+Brunch Restaurant	American Food
+Tonkatsu Restaurant	East Asian Food
+Greek Restaurant	Greek Food
+Hoagie Restaurant	Fast Food
+Italian Restaurant	Italian Food
+Chinese Restaurant	East Asian Food
+Dim Sum Restaurant	Dessert
+Asian Fusion Restaurant	Asian Food
+Kosher Restaurant	Mideast Food
+Delivery Restaurant	Delivery Food
+Turkish Restaurant	Mideast Food
+Pizza Restaurant	Fast Food
+Russian Restaurant	Russian Food
+Thai Restaurant	Southeast Asian Food
+Hot Dog Restaurant	Fast Food
+Middle Eastern Restaurant	Mideast Food
+Falafel Restaurant	Mideast Food
+Vietnamese Restaurant	Southeast Asian Food
+Lobster Restaurant	SeaFood
+Ukrainian Restaurant	East European Food
+French Steakhouse Restaurant	French Food
+Continental Restaurant	European Food
+Seafood Restaurant	SeaFood
+Eastern European Restaurant	East European Food
+South American Restaurant	American Food
+Izakaya Restaurant	Bar
+Laotian Restaurant	Southeast Asian Food
+Po¡¯ Boys Restaurant	Fast Food
+Southern Italian Restaurant	Italian Food
+Dominican Restaurant	Latin American Food
+Sichuan Restaurant	East Asian Food
+Hungarian Restaurant	East European Food
+Brazilian Restaurant	Latin American Food
+Mongolian Barbecue Restaurant	East Asian Food
+European Restaurant	European Food
+Japanese Restaurant	East Asian Food
+Peruvian Restaurant	Latin American Food
+American Restaurant	American Food
+Buffet Restaurant	Buffet Food
+Barbecue Restaurant	Barbecue
+Afghani Restaurant	Mideast Food
+Provence Restaurant	French Food
+Pacific Rim Restaurant	Pacific Food
+Scandinavian Restaurant	North European Food
+Haitian Restaurant	Latin American Food
+Soul Food Restaurant	American Food
+Israeli Restaurant	Mideast Food
+African Restaurant	African Food
+Takeout Restaurant	Takeout Food
+Modern European Restaurant	European Food
+Caribbean Restaurant	Latin American Food
+Obanzai Restaurant	East Asian Food
+Chicken Restaurant	Fast Food
+Mediterranean Restaurant	Italian Food
+Venetian Restaurant	East Asian Food
+East African Restaurant	African Food
+Family Restaurant	Family Food
+Pennsylvania Dutch Restaurant	European Food
+Japanese Curry Restaurant	East Asian Food
+Southern Restaurant (US)	American Food
+Modern French Restaurant	French Food
+Puerto Rican Restaurant	Latin American Food
+Sri Lankan Restaurant	South Asian Food
+Syrian Restaurant	Mideast Food
+Soup Restaurant	Soup Food
+Indian Restaurant	South Asian Food
+Tuscan Restaurant	Italian Food
+Kaiseki Restaurant	East Asian Food
+Cambodian Restaurant	Southeast Asian Food
+Espresso Bar	bar
+Gay Bar	bar
+Cocktail Bar	bar
+Piano Bar	bar
+Snack Bar	bar
+Hookah Bar	bar
+Tapas Bar	bar
+Wine Bar	bar
+Sports Bar	bar
+Downtown Bar	bar
+Bar & Grill	bar
+Karaoke Bar	bar
+Bar	bar
